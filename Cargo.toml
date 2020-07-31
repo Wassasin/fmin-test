@@ -1,0 +1,8 @@
+[package]
+name = "fmin-test"
+version = "0.1.0"
+authors = ["Wouter Geraedts <git@woutergeraedts.nl>"]
+edition = "2018"
+
+[dependencies]
+cortex-m-rt = "0.6.12"
